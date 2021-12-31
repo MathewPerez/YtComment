@@ -130,3 +130,6 @@ dmypy.json
 
 # API Key text files
 utils/dev_key.txt
+
+# generated csv dataset
+.csv
